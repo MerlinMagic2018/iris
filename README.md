@@ -40,7 +40,7 @@ You can also add to your contacts list and rate people and organisations who are
 A decentralised web of trust, unlike certain big brother systems, could be a strong positive social force as envisioned in the blog post [Learning to Trust Strangers](https://medium.com/@mmalmi/learning-to-trust-strangers-167b652a654f). (Iris is evolved from thereby mentioned Identifi.)
 
 ## Identity verifications
-Iris maps human readable names to public keys, providing an alternative to centrally managed identifiers such as domain names, email addresses, phone numbers or social media handles.
+Iris maps human readable names to public keys, providing an alternative to centrally managed identifiers such as domain names, CA certificates, email addresses, phone numbers or social media handles.
 
 Keep your contact details up-to-date and ask for verifications from peers or specialised verifiers trusted by your WoT.
 
