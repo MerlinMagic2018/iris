@@ -39,16 +39,21 @@ When you upvote someone, they become your 1st degree contact. The accounts they 
 You can also add to your contacts list and rate people and organisations who are not yet on Iris.
 A decentralised web of trust, unlike certain big brother systems, could be a strong positive social force as envisioned in the blog post [Learning to Trust Strangers](https://medium.com/@mmalmi/learning-to-trust-strangers-167b652a654f). (Iris is evolved from thereby mentioned Identifi.)
 
-## Identity verifications
-Iris maps human readable names to public keys, providing an alternative to centrally managed identifiers such as domain names, CA certificates, email addresses, phone numbers or social media handles.
-
-Keep your contact details up-to-date and ask for verifications from peers or specialised verifiers trusted by your WoT.
+## Attestations (identity verifications)
+Keep your contact details up-to-date and ask for attestations from peers or specialised verifiers trusted by your WoT.
 
 Use your Iris account for online authentication or identification on services that support it (browser extension and mobile app in development).
 
 Crypto wallets could use Iris to connect human-recognizable identities to payment addresses. Encrypted messaging apps like Signal could use Iris to look up users instead of telecom-bound phone numbers.
 
 If you lose access to your account (keypair), just create a new one and link it to your existing identity by asking for verifications from your web of trust.
+
+## Name service
+Through WoT attestations, Iris maps human readable names to public keys, providing an alternative to centrally managed identifiers such as domain names, CA certificates, email addresses, phone numbers or social media handles.
+
+Iris name search is interface-wise similar to many existing social media: instead of having to know someone's unique username, you can type in their non-unique natural name and get a dropdown list of matching contacts ordered by distance in your web of trust.
+
+You can also do reverse name lookup, such as looking up a name for an unknown number that is calling you. Or you could look up who owns a bitcoin address - as perceived by your web of trust.
 
 ## Importing content from existing sources
 An Iris message is digitally signed by the entity that verified its origin. In other words: message author and signer can be different entities, and only the signer needs to be on Iris.
