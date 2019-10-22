@@ -49,7 +49,7 @@ Crypto wallets could use Iris to connect human-recognizable identities to paymen
 If you lose access to your account (keypair), just create a new one and link it to your existing identity by asking for verifications from your web of trust.
 
 ## Name service
-Through WoT attestations, Iris maps human readable names to public keys, providing an alternative to centrally managed identifiers such as domain names, CA certificates, email addresses, phone numbers or social media handles.
+Through WoT attestations, Iris maps human readable names to public keys and other identity attributes, providing an alternative to centrally managed identifiers such as domain names, CA certificates, email addresses, phone numbers or social media handles.
 
 Iris name search is interface-wise similar to many existing social media: instead of having to know someone's unique username, you can type in their non-unique natural name and get a dropdown list of matching contacts ordered by distance in your web of trust.
 
