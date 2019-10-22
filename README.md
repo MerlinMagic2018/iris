@@ -9,10 +9,10 @@ Available at:
   * [Firefox](https://addons.mozilla.org/en-US/firefox/addon/irisapp/)
 
 Code:
-- https://github.com/irislib/iris-lib Library for reading and writing Iris messages and indexes
-- https://github.com/irislib/iris-angular Angular UI for web, browser extensions
-- https://github.com/irislib/iris-electron Desktop application: wraps iris-angular and adds multicast capability
-- https://github.com/irislib/iris-mobile Mobile app (react native)
+- [iris-lib](https://github.com/irislib/iris-lib) Library for reading and writing Iris messages and indexes
+- [iris-angular](https://github.com/irislib/iris-angular) Angular UI for web, browser extensions
+- [iris-electron](https://github.com/irislib/iris-electron) Desktop application: wraps iris-angular and adds multicast capability
+- [iris-mobile](https://github.com/irislib/iris-mobile) Mobile app (react native)
 
 _Note: Iris is still **experimental** software._
 
