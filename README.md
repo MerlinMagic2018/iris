@@ -16,6 +16,14 @@ Code:
 
 _Note: Iris is still **experimental** software._
 
+<a href="https://opencollective.com/iris-social/donate" target="_blank">
+  <img src="https://opencollective.com/iris-social/donate/button@2x.png?color=blue" width=200 />
+</a>
+
+<sub>
+BTC donations: 3GopC1ijpZktaGLXHb7atugPj9zPGyQeST
+</sub>
+
 ---
 
 **Want social media where _you_ decide what gets into your feed, not some obscure algorithm? Something that can't be censored by authoritarian governments? No big tech companies that decide what you can post, what gets visibility and who gets to have an account? Yet no harassing troll accounts, spam or ads? Something that works locally even if ISPs are unavailable in an emergency situation?**
@@ -86,7 +94,9 @@ Currently the weak point of Iris's decentralisation is the list of initial peers
 On the wide area network level, trusted contacts could exchange network addresses privately to avoid having them blocked or tracked. WebRTC's NAT traversal capabilities can enable direct connections between typical network endpoint users, but you still need a firewall-opened/port-forwarded rendez-vous node for them, and in some cases a relay node.
 
 ## How to help
-If you like the idea, please [create an Iris account](https://iris.to) and **share your profile link on your existing social networks**!
+**Donations** help keep the project going and are very much appreciated. You can donate via [Open Collective](https://opencollective.com/iris-social) or using bitcoin: 3GopC1ijpZktaGLXHb7atugPj9zPGyQeST
+
+You can promote Iris by [creating an account](https://iris.to) and **sharing your profile link on your existing social networks**!
 
 Currently the application is glitchy and slower than the technology allows, but it should give an idea of the intended functionality. Contributions to the [browser application](https://github.com/irislib/iris-angular) and the underlying [iris-lib](https://github.com/irislib/iris-lib) are very much appreciated.
 
