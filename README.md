@@ -16,13 +16,9 @@ Code:
 
 _Note: Iris is still **experimental** software._
 
-<a href="https://opencollective.com/iris-social/donate" target="_blank">
-  <img src="https://opencollective.com/iris-social/donate/button@2x.png?color=blue" width=200 />
-</a>
+<a href="https://opencollective.com/iris-social/donate" target="_blank"><img src="https://opencollective.com/iris-social/donate/button@2x.png?color=blue" width=200 /></a>
 
-<sub>
-BTC donations: 3GopC1ijpZktaGLXHb7atugPj9zPGyQeST
-</sub>
+<p><sub>BTC donations: 3GopC1ijpZktaGLXHb7atugPj9zPGyQeST</sub></p>
 
 ---
 
