@@ -98,6 +98,8 @@ Currently the application is glitchy and slower than the technology allows, but 
 
 If you want to integrate Iris with your product or service, please check out [iris-lib](https://github.com/irislib/iris-lib) and create Github issues if needed.
 
+You are welcome to join the [ERA community](https://discord.gg/7qxMCz) (GUN, Iris and other projects) on Discord!
+
 ## License
 
 Iris is released under the terms of the MIT license. See `COPYING` for more information or see http://opensource.org/licenses/MIT.
