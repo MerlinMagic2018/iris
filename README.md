@@ -1,5 +1,9 @@
 <img src="https://raw.githubusercontent.com/irislib/iris/master/brand/iris_logotype_rgb_small.png" alt="Iris" width="400">
 
+---
+__UPDATE 23.1.2020__: [iris.to](https://iris.to) now features [iris-messenger](https://iris.to), a decentralized browser chat MVP. Iris-angular has been moved to https://social.iris.to.
+---
+
 Available at:
 * [iris.to](https://iris.to)
 * [iris.cx](https://iris.cx)
@@ -10,6 +14,7 @@ Available at:
 
 Code:
 - [iris-lib](https://github.com/irislib/iris-lib) Library for reading and writing Iris messages and indexes
+- [iris-messenger](https://github.com/irislib/iris-messenger) Browser-based messenger using iris-lib
 - [iris-angular](https://github.com/irislib/iris-angular) Angular UI for web, browser extensions
 - [iris-electron](https://github.com/irislib/iris-electron) Desktop application: wraps iris-angular and adds multicast capability
 - [iris-mobile](https://github.com/irislib/iris-mobile) Mobile app (react native)
