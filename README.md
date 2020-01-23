@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/irislib/iris/master/brand/iris_logotype_rgb_small.png" alt="Iris" width="400">
 
 ---
-__UPDATE 23.1.2020__: [iris.to](https://iris.to) now features [iris-messenger](https://iris.to), a decentralized browser chat MVP. Iris-angular has been moved to https://social.iris.to.
+__UPDATE 23.1.2020__: [iris.to](https://iris.to) now features [iris-messenger](https://github.com/irislib/iris-messenger), a decentralized browser chat MVP. Iris-angular has been moved to https://social.iris.to.
 ---
 
 Available at:
