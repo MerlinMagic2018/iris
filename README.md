@@ -4,7 +4,7 @@
 __UPDATE 23.1.2020__: [iris.to](https://iris.to) now features [iris-messenger](https://github.com/irislib/iris-messenger), a decentralized browser chat MVP. Iris-angular has been moved to https://social.iris.to.
 ---
 
-Discord: https://discord.gg/gnzgpBh (will be moved onto Iris when group chat is ready 😉)
+Discord: https://discord.gg/4CJc74JEUY (will be moved onto Iris when group chat is ready 😉)
 
 Available at:
 * [iris.to](https://iris.to)
